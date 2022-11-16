@@ -4,7 +4,7 @@
 ## Getting started
 #### 1. Clone the repository
 <pre>
-git clone https://github.com/arcaneCheco/FoundryAddressBook.git ./addressBook
+git clone https://github.com/arcaneCheco/AddressBook.git ./addressBook
 cd ./addressBook
 </pre>
 #### 2. Install Dependencies
