@@ -16,3 +16,7 @@ npm install
 npm run serve
 </pre>
 #### 4. Visit http://localhost:1234
+#### 5. Run unit tests
+<pre>
+npm run test
+</pre>
